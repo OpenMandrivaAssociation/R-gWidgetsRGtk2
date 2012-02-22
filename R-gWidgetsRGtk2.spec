@@ -9,12 +9,9 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.0-78.tar.gz
-Requires:         R-methods R-gWidgets 
-Requires:         R-RGtk2 
-Requires:         R-cairoDevice 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-gWidgets
-BuildRequires:    R-RGtk2 
-BuildRequires:    R-cairoDevice 
+Requires:         R-methods R-gWidgets R-RGtk2 R-cairoDevice
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-methods R-gWidgets R-RGtk2  R-cairoDevice
 BuildRequires:    gtk2-devel
 
 %description
