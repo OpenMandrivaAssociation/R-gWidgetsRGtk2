@@ -1,2 +1,4 @@
+removed_sources:
+  gWidgetsRGtk2_0.0-78.tar.gz: e5ad581ccd45e65108d48f59f807126944987334
 sources:
-  "gWidgetsRGtk2_0.0-78.tar.gz:"	e5ad581ccd45e65108d48f59f807126944987334
+  gWidgetsRGtk2_0.0-81.tar.gz: c46f480c2dd0284241e2f9c54a04d42b24664187
