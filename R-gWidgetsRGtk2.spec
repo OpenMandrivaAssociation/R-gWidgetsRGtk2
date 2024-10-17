@@ -9,7 +9,7 @@ Release:          2
 Summary:          Toolkit implementation of gWidgets for RGtk2
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/gWidgetsRGtk2_0.0-81.tar.gz
 Requires:         R-methods R-gWidgets R-RGtk2 R-cairoDevice
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
